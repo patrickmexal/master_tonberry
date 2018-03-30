@@ -1,9 +1,10 @@
-import React from "react";
+import React, { Component } from 'react';
 import { slide as Menu } from 'react-burger-menu'
 
-class Example extends React.Component {
+class Sidebar extends React.Component {
   showSettings (event) {
     event.preventDefault();
+    
   }
 
   render () {
@@ -18,4 +19,4 @@ class Example extends React.Component {
   }
 }
 
-export default Example;
+export default Sidebar;

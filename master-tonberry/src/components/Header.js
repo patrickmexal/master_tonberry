@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from "../img/tonberryLandscapeCornflower.png";
+import logo from "../img/tonberryLandscapeWhite.png";
 
 class Header extends React.Component {
   showSettings (event) {
@@ -9,7 +9,7 @@ class Header extends React.Component {
     render () {
     return (
     	<div>
-      			<img src={logo} alt="Logo"/>
+      		<img src={logo} id="TonberryLogo" alt="Logo"/>
       	</div>
     );
   }

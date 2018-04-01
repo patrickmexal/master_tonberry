@@ -2,14 +2,23 @@ body {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background-image: url("./img/fantasy.jpg");
+    background-image: url("./img/fantAsia4.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
 
-img {
-  height: 50px;
-  width: 227px;
+#TonberryLogo {
+  height: 10%;
+  width: 45.4%;
+  /*height: 90px;
+  width: 408.6px;*/
+  margin-left: 95px;
+  margin-top: 30px;
+/*  Translucent Background for Logo(doesn't look correct)*/
+  /*background-color: #fff;
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 3px;*/
+
 }
 /* Position and sizing of burger button */
 
@@ -25,7 +34,7 @@ img {
 /* Color/shape of burger icon bars */
 
 .bm-burger-bars {
-    background: white;
+    background: gray;
 }
 
 

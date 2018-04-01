@@ -20,6 +20,7 @@ body {
   border-radius: 3px;*/
 
 }
+
 /* Position and sizing of burger button */
 
 .bm-burger-button {
@@ -34,7 +35,7 @@ body {
 /* Color/shape of burger icon bars */
 
 .bm-burger-bars {
-    background: #988080;
+    background: #d39c9c;
 }
 
 
@@ -85,7 +86,7 @@ body {
 
 a {
     font-family: 'Press Start 2P', cursive;
-    color: white;
+    color: #d39c9c;
     padding: 5px;
 }
 

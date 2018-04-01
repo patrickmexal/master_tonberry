@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import { slide as Menu } from 'react-burger-menu'
+import React from 'react';
+import { bubble as Menu } from 'react-burger-menu'
 
 class Sidebar extends React.Component {
   showSettings (event) {

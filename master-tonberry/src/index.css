@@ -12,8 +12,8 @@ body {
   width: 45.4%;
   /*height: 90px;
   width: 408.6px;*/
-  margin-left: 95px;
-  margin-top: 30px;
+  margin-left: 55px;
+  margin-top: 27px;
 /*  Translucent Background for Logo(doesn't look correct)*/
   /*background-color: #fff;
   background-color: rgba(255,255,255,0.5);
@@ -34,7 +34,7 @@ body {
 /* Color/shape of burger icon bars */
 
 .bm-burger-bars {
-    background: gray;
+    background: #988080;
 }
 
 
